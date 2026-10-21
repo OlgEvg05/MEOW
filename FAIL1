@@ -1,5 +1,0 @@
-echo "Первый файл" > file1.txt
-echo "Второй файл" > file2.txt
-git status
-git add file1.txt file2.txt
-git commit -m "Первый коммит: добавлены два файла"
